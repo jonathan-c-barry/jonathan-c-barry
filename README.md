@@ -1,8 +1,9 @@
 ## About Me
 
+
 ### Projects
 
-### Active Work
+### Technical Skills
 
 <!--
 **jonathan-c-barry/jonathan-c-barry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
